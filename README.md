@@ -11,13 +11,3 @@ The program can be run by: `python chatApp.py`
 
 You may get a 'command not found' error in Windows, which means python is not in your PATH. Check out how to add python to your path here: http://superuser.com/questions/143119/how-to-add-python-to-the-windows-path.
 
-Acknowledgements
-----------------
-The wonderful community over at http://stackoverflow.com, for helping get past all bottlenecks
-* The very helpful documentation of Tkinter at http://effbot.org/tkinterbook/
-
-[1]: http://en.wikipedia.org/wiki/Peer-to-peer
-
-License
--------
-GNU GPLv3
